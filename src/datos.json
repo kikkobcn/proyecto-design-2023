@@ -1,0 +1,78 @@
+{
+  "header": {
+    "nombre": "Blocknology",
+    "links": [
+      { "texto": "blog", "url": "http://blog.com", "icono": "bi bi-journal" },
+      { "texto": "youtube", "url": "http://youtube.com", "icono": 
+      "bi bi-youtube" }
+    ]
+  },
+
+  "footer": [
+    {
+      "nombre": "Social",
+      "links": [
+        {
+          "texto": "twitter",
+          "url": "http//twitter.com",
+          "icono": "bi bi-twitter"},
+        {
+          "texto": "Instagram",
+          "url": "http//instagram.com",
+          "icono": "bi bi-instagram"
+        }
+      ]
+    },
+    {
+      "nombre": "Contacto",
+      "links": [
+        { "texto": "Telefono", "url": "93 444 555" },
+        { "texto": "email", "url": "abcdef@gmailcom" }
+      ]
+    }
+  ],
+    
+  "subscripciones": [
+        {
+          "nombre": "free",
+          "condiciones":[
+                {"precio": "0$",
+                "modalidad_subscripcion": "Sign up for free",
+                "users":"5 users included",
+                "almacenamiento":"5Gb",
+                "contacto":"E-mail",
+                "soporte":"help center crypto"
+            }
+          ]
+        },
+
+        {
+          "nombre": "premium",
+          "condiciones":[
+                {
+                  "precio": "15$",
+                  "modalidad_subscripcion": "get started",
+                  "users": "10 users included",
+                  "almacenamiento": "15Gb",
+                  "contacto": "Priority e-mail",
+                  "soporte": "help center"
+                }
+          ]
+        },
+        {
+          "nombre": "enterprise",
+                    "condiciones":[
+                {
+                  "precio": "35$",
+                  "modalidad_subscripcion": "contact",
+                  "users": "50 users included",
+                  "almacenamiento": "35Gb",
+                  "contacto": "Priority phone",
+                  "soporte": "help center access"
+                }
+          ]
+        }
+
+      ]  
+
+}
