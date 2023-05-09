@@ -1,5 +1,3 @@
-// import '../index.css'
-
 export function Carusel() {
 
     return <div id="carouselExampleIndicators" className="carousel slide container-fluid" data-bs-ride="carousel"   >
